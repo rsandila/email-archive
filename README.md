@@ -20,7 +20,7 @@ recoverable and independent of mail client.
 
 ## Usage
 
-* Run the docker container on the QNAP
+* Run the docker container on the server
 * Point your mail client to it and move your email to it
 
 ## TODO
